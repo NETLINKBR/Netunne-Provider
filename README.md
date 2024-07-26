@@ -3,3 +3,7 @@ O pacote disponibilizado possui arquivos .PHP com o codigo-fonte do Netunne Prov
 
 O Netunne também era uma camada de software sobre o Linux, mas mais sofisticada e focada em pequenos ISPs que precisavam de um gateway/roteador para controlar o acesso de seus clientes à internet.
 
+////////////////////////////////
+Desenvolvido por 
+Allan Denot
+https://allandenot.com/about/
