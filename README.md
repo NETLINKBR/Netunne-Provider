@@ -1,8 +1,15 @@
 # Netunne-Provider
 O pacote disponibilizado possui arquivos .PHP com o codigo-fonte do Netunne Provider
 
-O Netunne também era uma camada de software sobre o Linux, mas mais sofisticada e focada em pequenos ISPs que precisavam de um gateway/roteador para controlar o acesso de seus clientes à internet.
-Ferramentas
+Um gerenciador de rede Linux com interface web, focado em controle de banda e hotspot
+
+Também incorpora um sistema operacional baseado em Debian, usando scripts de inicialização Knoppix e uma instalação gráfica.
+
+O Netunne é perfeito para pequenos ISPs que precisam de um servidor fácil de manter.
+
+Algumas funcionalidades descritas abaixo: * Hotspot, em um sistema baseado em créditos, os usuários podem se conectar à internet por um período limitado de tempo. * Controle de largura de banda (com camada 7), facilmente configurado em uma interface web. * I18n, em português brasileiro e inglês (precisa de revisão) * Interface web Ajax
+
+Este projeto está atualmente em espera, seu principal objetivo é ser uma startup para projetos semelhantes
 
 
 Registro do Servidor
