@@ -3,7 +3,19 @@ O pacote disponibilizado possui arquivos .PHP com o codigo-fonte do Netunne Prov
 
 O Netunne também era uma camada de software sobre o Linux, mas mais sofisticada e focada em pequenos ISPs que precisavam de um gateway/roteador para controlar o acesso de seus clientes à internet.
 Ferramentas
+
+
+Registro do Servidor
+ID - A4910210 userkey
+user -00011200003 Chave
+
+
+
+2100cfa754e97e34089167db74ccc25a  /// certificado, mas não e nescessario porque o servidor de chave nao fuciona mais esta off
+
 //////////////////////////////////////////////
+
+
 Voce vai precisar de um programa que faca SFTP, recomendo o Filezilla, que pode ser obtido em: http://filezilla-project.org/download.php
 
 Tambem ira precisar de um editor de PHP, pode ser o PHP Editor ou Notepad++, o Notepad normal do Windows nao vai funcionar, o Wordpad do Windows talvez funcione.
