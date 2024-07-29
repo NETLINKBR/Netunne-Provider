@@ -53,6 +53,10 @@ Arraste o core_common.nx do lado esquerdo para o lado direito, o filezilla ira p
 Se tudo ocorreu bem, acesse seu netunne normalmente e va na opcao de Info. de Atualizacao, que voce vera o novo nome do sistema, ao inves de Provider.
 
 
+OBS:
+Liberar o chcp sem ter licença user estas regras no rf-filter se nao o maquina nao pega o dhcp 
+https://www.tolaris.com/2009/07/13/disabling-reverse-path-filtering-in-complex-networks/
+
 ///////////////////////////////////////////
 Desenvolvido por 
 Allan Denot
