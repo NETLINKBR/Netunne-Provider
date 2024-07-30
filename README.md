@@ -22,9 +22,13 @@ user - ( 00011200003 ) Chave
 
 /// certificado, mas não e nescessario porque o servidor de chave nao fuciona mais esta off
 
+////////
+VM VirtualBox
+--> https://mega.nz/file/JqdiQZxJ#ZkZaBWOtqXtktIPnHPe_mjAjujgfOZG8FNOQMAb4hpc  
+
 ////////////
 /// LINK PARA BAIXAR ISO Netunne Provider - v1.39 - Esta iso não opção proxy
-https://mega.nz/file/t7s3GDQQ#9k8sJKpdmQvVWFFRPlzo647Yf6_T0HYsa6N-TxDEWBY
+--> https://mega.nz/file/t7s3GDQQ#9k8sJKpdmQvVWFFRPlzo647Yf6_T0HYsa6N-TxDEWBY
 
 /////////////////////////////////////////////
 
