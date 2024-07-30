@@ -22,8 +22,7 @@ user - ( 00011200003 ) Chave
 
 /// certificado, mas não e nescessario porque o servidor de chave nao fuciona mais esta off
 
-////////
-VM VirtualBox
+VM VirtualBox - Netunner 1.61 - Ultima Versão 
 --> https://mega.nz/file/JqdiQZxJ#ZkZaBWOtqXtktIPnHPe_mjAjujgfOZG8FNOQMAb4hpc  
 
 ////////////
