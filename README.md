@@ -56,7 +56,7 @@ If everything went well, access your netunne normally and go to the Info option.
 
 
 
-
+License Received Succefully out.php
 OBS:
 Liberar o chcp sem ter licença user estas regras no rf-filter se nao o maquina nao pega o dhcp 
 https://www.tolaris.com/2009/07/13/disabling-reverse-path-filtering-in-complex-networks/
